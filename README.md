@@ -6,6 +6,8 @@ Books Search is a web application that allows users to find books using natural 
 
 The project consists of a Python FastAPI backend and a Next.js frontend. Book embeddings are generated using the open-source model nomic-embed-text (run via Ollama), and stored in a PostgreSQL database using the pgvector extension.
 
+<img width="1438" alt="Screenshot 2025-04-20 at 14 15 15" src="https://github.com/user-attachments/assets/d1c3b105-b67a-4741-b349-8630e1156ba6" />
+
 ## 🚀 Running the project
 
 ### 📊 Data Processing
