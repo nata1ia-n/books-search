@@ -1,0 +1,72 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production
+/build
+/dist
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs
+*.log
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+
+# TypeScript
+*.tsbuildinfo
+
+# Cache
+.cache
+.next
+.nuxt
+.temp
+.cache
+.parcel-cache
+
+# Misc
+.DS_Store
+Thumbs.db
+*.pem
+*.cert
+*.key
+.ipynb_checkpoints/
+
+# Supabase
+.supabase
+
+# Cypress
+cypress/videos/
+cypress/screenshots/
+
+# Storybook
+storybook-static
+
+# Coverage directory used by tools like istanbul
+coverage
+*.lcov
+
+# Data
+data/
